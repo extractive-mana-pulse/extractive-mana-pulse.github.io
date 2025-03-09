@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning new technologies and improving my coding skills.
 - 👯 I’m looking to collaborate on exciting open-source projects.
 - 💬 Ask me about anything android (kotlin) related.
-- 📫 How to reach me: [Email](mailto:invoker1441@gmail.com) | [LinkedIn]([https://www.linkedin.com/in/extractive-mana-pulse](https://www.linkedin.com/in/mukhammadamin-salokhiddinov-998202200/)) | [Telegram] (https://t.me/Qlwre)
+- 📫 How to reach me: [Email](mailto:invoker1441@gmail.com) | [LinkedIn]([https://www.linkedin.com/in/extractive-mana-pulse](https://www.linkedin.com/in/mukhammadamin-salokhiddinov-998202200/))) | [Telegram](https://t.me/Qlwre)
 
 ## Skills
 

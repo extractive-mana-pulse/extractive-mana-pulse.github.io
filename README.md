@@ -1,11 +1,11 @@
-# Hi there, I'm Extractive Mana Pulse! 👋
+# Hey, I'm Mukhammadamin S.
 
 ## About Me
 
 - 🌱 I’m currently learning new technologies and improving my coding skills.
 - 👯 I’m looking to collaborate on exciting open-source projects.
 - 💬 Ask me about anything android (kotlin) related.
-- 📫 How to reach me: [Email](mailto:invoker1441@gmail.com) | [LinkedIn]([https://www.linkedin.com/in/extractive-mana-pulse](https://www.linkedin.com/in/mukhammadamin-salokhiddinov-998202200/)) | [Telegram](https://t.me/Qlwre)
+- 📫 How to reach me: [Email](mailto:invoker1441@gmail.com) | [LinkedIn](https://www.linkedin.com/in/extractive-mana-pulse](https://www.linkedin.com/in/mukhammadamin-salokhiddinov-998202200/)) | [Telegram](https://t.me/Qlwre)
 
 ## Skills
 
@@ -14,7 +14,7 @@
 
 ## Projects
 
-### Project 1: [All In One]([https://github.com/extractive-mana-pulse/All In One](https://github.com/extractive-mana-pulse/All-In-One))
+### Project 1: [All In One](https://github.com/extractive-mana-pulse/All In One](https://github.com/extractive-mana-pulse/All-In-One))
 A modern Android learning app.
 
 ### Project 2: [TwitturIn](https://github.com/extractive-mana-pulse/Twittur-In-)

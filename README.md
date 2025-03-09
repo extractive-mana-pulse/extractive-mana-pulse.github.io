@@ -15,11 +15,11 @@
 
 ## Projects
 
-### Project 1: [Awesome Project]([https://github.com/extractive-mana-pulse/All In One](https://github.com/extractive-mana-pulse/All-In-One))
-A brief description of what this project is about and what technologies it uses.
+### Project 1: [All In One]([https://github.com/extractive-mana-pulse/All In One](https://github.com/extractive-mana-pulse/All-In-One))
+A modern Android learning app.
 
-### Project 2: [Another Cool Project](https://github.com/extractive-mana-pulse/Twittur-In-)
-A brief description of what this project is about and what technologies it uses.
+### Project 2: [TwitturIn](https://github.com/extractive-mana-pulse/Twittur-In-)
+TwitterIn. This is a mobile application that will make life easier for TTPU users.
 
 ## GitHub Stats
 

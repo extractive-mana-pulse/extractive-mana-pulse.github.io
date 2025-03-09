@@ -1,17 +1,37 @@
-<h1 align="center">Hi 👋, I'm Mukhammadamin</h1>
-<h3 align="center">I am a android developer from Entire World</h3>
+# Hi there, I'm Extractive Mana Pulse! 👋
 
-- 🔭 I’m currently working on **TwitturIn**
+## About Me
 
-- 🌱 I’m currently learning **Android, Jetpack Compose**
+- 🌱 I’m currently learning new technologies and improving my coding skills.
+- 👯 I’m looking to collaborate on exciting open-source projects.
+- 💬 Ask me about anything tech-related.
+- 📫 How to reach me: [Email](mailto:extractive.mana.pulse@example.com) | [LinkedIn](https://www.linkedin.com/in/extractive-mana-pulse)
+- ⚡ Fun fact: I love solving puzzles and playing strategy games.
 
-- 📫 How to reach me **invoker1441@gmail.com**
+## Skills
 
-- ⚡ Fun fact **Quote: All can be known and known by me(in android world) if i try hard xD**
+- **Languages**: Python, Kotlin, Java
+- **Databases**: Sqlite, MongoDB
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### Project 1: [Awesome Project]([https://github.com/extractive-mana-pulse/All In One](https://github.com/extractive-mana-pulse/All-In-One))
+A brief description of what this project is about and what technologies it uses.
+
+### Project 2: [Another Cool Project](https://github.com/extractive-mana-pulse/Twittur-In-)
+A brief description of what this project is about and what technologies it uses.
+
+## GitHub Stats
+
+![Extractive Mana Pulse's GitHub stats](https://github-readme-stats.vercel.app/api?username=extractive-mana-pulse&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=extractive-mana-pulse&layout=compact&theme=radical)
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/extractive-mana-pulse)
+- [Twitter](https://twitter.com/extractive_mana)
+- [Telegram](@Qlwre)
+- [Gmail](invoker1441@gmail.com)

@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning new technologies and improving my coding skills.
 - 👯 I’m looking to collaborate on exciting open-source projects.
 - 💬 Ask me about anything android (kotlin) related.
-- 📫 How to reach me: [Email](mailto:invoker1441@gmail.com) | [LinkedIn]([https://www.linkedin.com/in/extractive-mana-pulse](https://www.linkedin.com/in/mukhammadamin-salokhiddinov-998202200/))
+- 📫 How to reach me: [Email](mailto:invoker1441@gmail.com) | [LinkedIn]([https://www.linkedin.com/in/extractive-mana-pulse](https://www.linkedin.com/in/mukhammadamin-salokhiddinov-998202200/)) | [Telegram] (https://t.me/Qlwre)
 
 ## Skills
 
@@ -30,10 +30,3 @@ ndroid news app is a mobile software program designed to deliver current news an
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=extractive-mana-pulse&layout=compact&theme=radical)
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/extractive-mana-pulse)
-- [Twitter](https://twitter.com/extractive_mana)
-- [Telegram](@Qlwre)
-- [Gmail](invoker1441@gmail.com)

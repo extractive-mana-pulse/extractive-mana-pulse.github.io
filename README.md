@@ -4,9 +4,8 @@
 
 - 🌱 I’m currently learning new technologies and improving my coding skills.
 - 👯 I’m looking to collaborate on exciting open-source projects.
-- 💬 Ask me about anything tech-related.
-- 📫 How to reach me: [Email](mailto:extractive.mana.pulse@example.com) | [LinkedIn](https://www.linkedin.com/in/extractive-mana-pulse)
-- ⚡ Fun fact: I love solving puzzles and playing strategy games.
+- 💬 Ask me about anything android (kotlin) related.
+- 📫 How to reach me: [Email](mailto:invoker1441@gmail.com) | [LinkedIn]([https://www.linkedin.com/in/extractive-mana-pulse](https://www.linkedin.com/in/mukhammadamin-salokhiddinov-998202200/))
 
 ## Skills
 
@@ -20,6 +19,9 @@ A modern Android learning app.
 
 ### Project 2: [TwitturIn](https://github.com/extractive-mana-pulse/Twittur-In-)
 TwitterIn. This is a mobile application that will make life easier for TTPU users.
+
+### Project 3: [News]([https://github.com/extractive-mana-pulse/Twittur-In-](https://github.com/extractive-mana-pulse/News))
+ndroid news app is a mobile software program designed to deliver current news and information to users on the Android platform. As a digital news platform, it leverages the capabilities of the Android operating system to provide an interactive news consumption experience.
 
 ## GitHub Stats
 

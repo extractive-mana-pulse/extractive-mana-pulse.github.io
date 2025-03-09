@@ -14,14 +14,14 @@
 
 ## Projects
 
-### Project 1: [All In One](https://github.com/extractive-mana-pulse/All In One](https://github.com/extractive-mana-pulse/All-In-One))
+### Project 1: [All In One](https://github.com/extractive-mana-pulse/All-In-One)
 A modern Android learning app.
 
 ### Project 2: [TwitturIn](https://github.com/extractive-mana-pulse/Twittur-In-)
 TwitterIn. This is a mobile application that will make life easier for TTPU users.
 
 ### Project 3: [News]([https://github.com/extractive-mana-pulse/Twittur-In-](https://github.com/extractive-mana-pulse/News))
-ndroid news app is a mobile software program designed to deliver current news and information to users on the Android platform. As a digital news platform, it leverages the capabilities of the Android operating system to provide an interactive news consumption experience.
+Android news app is a mobile software program designed to deliver current news and information to users on the Android platform. As a digital news platform, it leverages the capabilities of the Android operating system to provide an interactive news consumption experience.
 
 ## GitHub Stats
 
